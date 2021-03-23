@@ -1,0 +1,67 @@
+&NAMCT0
+  LELAM=.FALSE.,
+/ 
+&NAMAATESTPROG
+   NSMAX=49,
+   NDGLG=50,
+   NFLEVG=100,
+ /
+ &NAMPAR0
+ /
+ &NAMPAR1
+ /
+ &NAMRGRI
+   NRGRI(1)= 20,
+   NRGRI(2)= 30,
+   NRGRI(3)= 36,
+   NRGRI(4)= 48,
+   NRGRI(5)= 54,
+   NRGRI(6)= 60,
+   NRGRI(7)= 64,
+   NRGRI(8)= 80,
+   NRGRI(9)= 80,
+   NRGRI(10)= 90,
+   NRGRI(11)= 90,
+   NRGRI(12)= 96,
+   NRGRI(13)=100,
+   NRGRI(14)=100,
+   NRGRI(15)=100,
+   NRGRI(16)=100,
+   NRGRI(17)=100,
+   NRGRI(18)=100,
+   NRGRI(19)=100,
+   NRGRI(20)=100,
+   NRGRI(21)=100,
+   NRGRI(22)=100,
+   NRGRI(23)=100,
+   NRGRI(24)=100,
+   NRGRI(25)=100,
+   NRGRI(26)=100,
+   NRGRI(27)=100,
+   NRGRI(28)=100,
+   NRGRI(29)=100,
+   NRGRI(30)=100,
+   NRGRI(31)=100,
+   NRGRI(32)=100,
+   NRGRI(33)=100,
+   NRGRI(34)=100,
+   NRGRI(35)=100,
+   NRGRI(36)=100,
+   NRGRI(37)=100,
+   NRGRI(38)=100,
+   NRGRI(39)= 96,
+   NRGRI(40)= 90,
+   NRGRI(41)= 90,
+   NRGRI(42)= 80,
+   NRGRI(43)= 80,
+   NRGRI(44)= 64,
+   NRGRI(45)= 60,
+   NRGRI(46)= 54,
+   NRGRI(47)= 48,
+   NRGRI(48)= 36,
+   NRGRI(49)= 30,
+   NRGRI(50)= 20,
+ /
+ &NAMTRANS
+ /
+
